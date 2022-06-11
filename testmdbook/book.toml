@@ -6,3 +6,4 @@ src = "src"
 title = "testbook"
 [output.html]
 mathjax-support = true
+site-url = "/testmdbook/"
