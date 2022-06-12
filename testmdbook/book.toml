@@ -1,9 +1,0 @@
-[book]
-authors = ["CS2103Lerulatus"]
-language = "en"
-multilingual = false
-src = "src"
-title = "testbook"
-[output.html]
-mathjax-support = true
-site-url = "/testmdbook/"
